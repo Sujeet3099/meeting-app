@@ -1,0 +1,30 @@
+.about {
+  flex: 1;
+  padding: 4.5rem 8.3rem 12.25rem 3.5rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e5e5;
+}
+h1 {
+  font-size: 3rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+.about__me {
+  background-color: #fff;
+  padding: 3.5rem;
+}
+
+h2 {
+  margin: 1rem 0rem;
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 400;
+  margin: 0.2rem;
+}
+p {
+  margin-left: 2rem;
+}
